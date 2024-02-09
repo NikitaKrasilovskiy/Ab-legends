@@ -41,7 +41,7 @@ public class CampsController : MonoBehaviour
             await bobberCompany.Close();
         }
         if(Mathf.RoundToInt(container.localPosition.x)!=-960)
-            await container.DOLocalMoveX(-960, 0.7f).GetAwaiter();
+            container.DOLocalMoveX(-960, 0.7f);
         _canvasGroup.interactable = true;
         if (b)
             acornCompany.OpenJurnal();
@@ -59,7 +59,7 @@ public class CampsController : MonoBehaviour
             await UniTask.Delay(300);
         }
         if(Mathf.RoundToInt(container.localPosition.x)!=-2880)
-            await container.DOLocalMoveX(-2880, 0.7f).GetAwaiter();
+            container.DOLocalMoveX(-2880, 0.7f);
         _canvasGroup.interactable = true;
         if (b)
             bobberCompany.OpenJurnal();

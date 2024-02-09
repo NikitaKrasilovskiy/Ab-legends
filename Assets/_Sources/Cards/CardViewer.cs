@@ -52,10 +52,10 @@ public class CardViewer : MonoBehaviour
         abilityAnim.gameObject.SetActive(true);
         abilityAnim.Play();
         while(!abilityAnim.isPlaying)
-            await Task.Yield();
+            //await Task.Yield();
         while (abilityAnim.isPlaying)
         {
-            await Task.Yield();
+            //await Task.Yield();
         }
         abilityAnim.gameObject.SetActive(false);
     }
@@ -97,8 +97,8 @@ public class CardViewer : MonoBehaviour
         }
         var yPos = transform.localPosition.y;
         SoundEngine.PlayEffect(warriorCard.id.Split('_')[0]+"_atack");
-        await transform.DOLocalMoveY(yPos+(100*(transform.position.y>0?-1:1)), 0.25f/timeScale);
-        await transform.DOLocalMoveY(yPos, 0.25f/timeScale);
+        transform.DOLocalMoveY(yPos+(100*(transform.position.y>0?-1:1)), 0.25f/timeScale);
+        transform.DOLocalMoveY(yPos, 0.25f/timeScale);
         
         return _atack;
     }
@@ -107,8 +107,8 @@ public class CardViewer : MonoBehaviour
     {
         var yPos = transform.localPosition.y;
         SoundEngine.PlayEffect(warriorCard.id.Split('_')[0]+"_atack");
-        await transform.DOLocalMoveY(yPos+(100*(transform.position.y>0?-1:1)), 0.25f/timeScale);
-        await transform.DOLocalMoveY(yPos, 0.25f/timeScale);
+        transform.DOLocalMoveY(yPos+(100*(transform.position.y>0?-1:1)), 0.25f/timeScale);
+        transform.DOLocalMoveY(yPos, 0.25f/timeScale);
         
         return power;
     }
@@ -129,11 +129,11 @@ public class CardViewer : MonoBehaviour
         {
             SoundEngine.PlayEffect("card_take_damage");
             float power = 2;
-            await transform.DOLocalMoveX(power,0.2f/timeScale);
-            await transform.DOLocalMoveX(-power,0.2f/timeScale);
-            await transform.DOLocalMoveX(power,0.2f/timeScale);
-            await transform.DOLocalMoveX(-power,0.2f/timeScale);
-            await transform.DOLocalMoveX(0f,0.2f/timeScale);
+            transform.DOLocalMoveX(power,0.2f/timeScale);
+            transform.DOLocalMoveX(-power,0.2f/timeScale);
+            transform.DOLocalMoveX(power,0.2f/timeScale);
+            transform.DOLocalMoveX(-power,0.2f/timeScale);
+            transform.DOLocalMoveX(0f,0.2f/timeScale);
         }
         return _health <= 0;
     }
@@ -169,7 +169,7 @@ public class CardViewer : MonoBehaviour
     {
         deathObject.SetActive(true);
         SoundEngine.PlayEffect(warriorCard.id.Split('_')[0]+"_death");
-        await transform.DOShakePosition(1f/timeScale, 1, 100);
+        transform.DOShakePosition(1f/timeScale, 1, 100);
         
     }
 }

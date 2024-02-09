@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: dinamit_Data
+  m_EditorClassIdentifier: 
+  dataName: dinamit
+  dragonBonesJSON: {fileID: 4900000, guid: 58e73fefad23ec5479aee151aceae790, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 13a36434e2ec815478d1dacbce606731, type: 3}
+    texture: {fileID: 2800000, guid: 0e782ad09ec997349bcee0f781aa49e5, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: 3ebc087441f777f4f9693a9f81dd33b4, type: 2}

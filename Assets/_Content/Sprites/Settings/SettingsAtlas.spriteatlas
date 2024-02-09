@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c4a3a4f46069187439b78b526c935151, type: 3}
+    - {fileID: 21300000, guid: 448e7600973003445a31fecd71638598, type: 3}
+    - {fileID: 21300000, guid: f88fa8f84e1cb144090c07dc27f7a2dd, type: 3}
+    - {fileID: -6188830419020183439, guid: 469524457af737e448d863b1b655081c, type: 3}
+    - {fileID: -9199329576942336340, guid: 469524457af737e448d863b1b655081c, type: 3}
+    - {fileID: -2058864564999865956, guid: 9106b9d9e97746949968774d7f3107d5, type: 3}
+    - {fileID: 4259670444436961614, guid: 9106b9d9e97746949968774d7f3107d5, type: 3}
+    - {fileID: 21300000, guid: 78b307b8c71b4f9498d68125f0d03f31, type: 3}
+    - {fileID: 21300000, guid: df0ad0c670976ba4ea28f7b7a4f4e57e, type: 3}
+    - {fileID: 21300000, guid: 1c46464f264291244b0e540e2d31eede, type: 3}
+    - {fileID: 21300000, guid: cae6421d87eb96c48a9fd0323b547feb, type: 3}
+    - {fileID: 21300000, guid: 91c730f8bfc7d9d4da5b2b22a6d578a5, type: 3}
+    - {fileID: 21300000, guid: ec4ca35de24951548a296bb7fc97dd0f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 448e7600973003445a31fecd71638598, type: 3}
+  - {fileID: 21300000, guid: c4a3a4f46069187439b78b526c935151, type: 3}
+  - {fileID: -9199329576942336340, guid: 469524457af737e448d863b1b655081c, type: 3}
+  - {fileID: -6188830419020183439, guid: 469524457af737e448d863b1b655081c, type: 3}
+  - {fileID: 21300000, guid: df0ad0c670976ba4ea28f7b7a4f4e57e, type: 3}
+  - {fileID: 21300000, guid: 78b307b8c71b4f9498d68125f0d03f31, type: 3}
+  - {fileID: 21300000, guid: 91c730f8bfc7d9d4da5b2b22a6d578a5, type: 3}
+  - {fileID: 21300000, guid: f88fa8f84e1cb144090c07dc27f7a2dd, type: 3}
+  - {fileID: 4259670444436961614, guid: 9106b9d9e97746949968774d7f3107d5, type: 3}
+  - {fileID: -2058864564999865956, guid: 9106b9d9e97746949968774d7f3107d5, type: 3}
+  - {fileID: 21300000, guid: cae6421d87eb96c48a9fd0323b547feb, type: 3}
+  - {fileID: 21300000, guid: ec4ca35de24951548a296bb7fc97dd0f, type: 3}
+  - {fileID: 21300000, guid: 1c46464f264291244b0e540e2d31eede, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - vol_back1
+  - vol_handle
+  - langs_off_1
+  - langs_off_0
+  - vol_fill
+  - settings_desk
+  - volume_off
+  - yellow_tape
+  - langs_on_1
+  - langs_on_0
+  - settings_icon
+  - volume_on
+  - vol_back2
+  m_RenderDataMap: {}
+  m_Tag: SettingsAtlas
+  m_IsVariant: 0

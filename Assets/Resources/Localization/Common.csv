@@ -1,0 +1,45 @@
+Key,Russian,English
+NICKNAME_TITLE,Введите никнейм,Enter username
+NICKNAME_PLACEHOLDER,Введите текст,Enter text
+NICKNAME_RULES,"Никнейм должен быть длинной от 3 до 16 символов, и может состоять из латинских букв и цифр",The username must be 3 to 16 characters long and only contain English letters and numbers
+NICKNAME_SUCCES,Готово,Done
+PROFILE_TITLE,Профиль,Profile
+PROFILE_NICKNAME,Никнейм,Username
+PROFILE_LEVEL,Уровень,Level
+PROFILE_PROACC,Pro-аккаунт,Pro-account
+PROFILE_STATSTITLE,Статистика,Statistics
+PROFILE_STATWINRATE,Процент побед -  {0:P},Victory percentage - {0:P}
+SETTINGS_TITLE,Настройки,Settings
+SETTINGS_SOUND,Звук,Sound
+SETTINGS_LANGS,Язык,Language
+SETTINGS_PROMO,Промокод,Promo code
+DECK_TITLE,Колода,Deck
+DECK_BLOCKER,Для доступа к данной колоде необходимо пройти компанию за эту сторону.,Complete this faction's campaign to get this deck
+CARDDATA_LVL,Уровень,Level
+CARDDATA_ATACK,Атака,Attack
+CARDDATA_HEALTH,Жизни,Health
+CARDDATA_SHELL,Продать,Sell
+CARDDATA_UPGRADE,Улучшить,Upgrade
+CARDDATA_NOGOLD,Недостаточно золота,Not enough gold
+ARENA_TITLE,Арена,Arena
+ARENA_RANK,Мой Ранг: {0:D},My rank: {0:D}
+ARENA_GETPRIZE,Забрать,Get
+ARENAHELPER_TITLE,Награды арены,Arena rewards
+ARENAHELPER_RANK,Ранг: {0:D},Rank: {0:D}
+DAILYTASKS_REWARD,Награда,Reward
+DAILYTASKS_COMPLITED,Выполнено,Complete
+ACHIEVMENTS_TITLE,Достижения,Achievements
+BATTLE_WIN,Победа,Victory
+BATTLE_LOSE,Поражение,Defeat
+BATTLERESULT_GET,Получить,Receive
+DAILY_0,Пройти уровень компании на 3 звезды,Complete a 3-Star Company Level
+DAILY_1,Победить на арене 3 раза,Win the arena 3 times
+DAILY_2,Открыть подарок,Open a gift
+BATTLE_DEFEATE,Признать поражение ?,Admit defeat?
+CARDDATA_NOSHELL,Сейчас вы не можете продать карту. В каждой колоде должно оставаться не менее двух карт.,You can't sell the card right now. Each deck should contain no less than 2 cards.
+CARDDATA_UPTEXT,повысить до:,upgrade to:
+REWARD_ADS,Награда х2,Reward x2
+FREE_ARENA1,Каждые 24 часа вы можете принять участие в 3-х рейтинговых боях. ,"Every 24 hours, you can participate in 3 ranked battles."
+FREE_ARENA2,Вы можете получить возможность дальнейшего участия за монетки или просмотр рекламы!,You can also participate in more for coins or by watching adverts!
+COINS_FOR,За монетки,With coins
+ADS_VIEW,Посмотреть рекламу,View ads

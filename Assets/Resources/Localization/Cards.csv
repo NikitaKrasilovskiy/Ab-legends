@@ -1,0 +1,63 @@
+Key,Russian,English
+ACORN0_NAME,Дерзкая,Hardy
+ACORN0_ABILITY0,С {0:P1}-ной вероятностью уничтожает отряд,Has a {0:P1} chance to destroy the unit
+ACORN0_ABILITY1,С 15%-ной вероятностью уничтожает отряд,Has a 15% chance to destroy the unit
+ACORN1_NAME,Унылый,Moody
+ACORN1_ABILITY0,Вражеский отряд получает -{0} к атаке,Enemy unit loses {0} attack
+ACORN1_ABILITY1,Вражеский отряд получает -2 к атаке,Enemy unit loses 2 attack
+ACORN2_NAME,Сержант,Sarge
+ACORN2_ABILITY0,Восстановить все ваши отряды на {0},Restore {0} hp to all your units
+ACORN2_ABILITY1,Восстановить все ваши отряды на 3,Restore 3 hp to all your units
+ACORN3_NAME,Ковбой,Cowboy
+ACORN3_ABILITY0,С {0:P1}-ной вероятностью наносит такой же урон герою,Has a {0:P1} chance to deal the same damage to the hero
+ACORN3_ABILITY1,С 50%-ной вероятностью наносит такой же урон герою,Has a 50% chance to deal the same damage to the hero
+ACORN4_NAME,Зверобой,Hunter
+ACORN4_ABILITY0,Наносит на {0} урона больше Часовым,Deals {0} more damage to Sentinels
+ACORN4_ABILITY1,Наносит на 5 урона больше Часовым,Deals 5 more damage to Sentinels
+BOBBER0_NAME,Водолаз,Diver
+BOBBER0_ABILITY0,С {0:P1}-ной вероятностью сводит следующую атаку отряда напротив к нулю,Has a {0:P1} chance to block the attack of the opposing unit
+BOBBER0_ABILITY1,С 10%-ной вероятностью сводит следующую атаку отряда напротив к нулю,Has a 10% chance to block the attack of the opposing unit
+BOBBER1_NAME,Громобой,Bolt
+BOBBER1_ABILITY0,С {0:P1}-ным шансом нанести ещё один удар,Has a {0:P1} chance to land an extha hit
+BOBBER1_ABILITY1,С 25%-ным шансом нанести ещё один удар,Has a 25% chance to land an extha hit
+BOBBER2_NAME,Отважный,Brave
+BOBBER2_ABILITY0,Даёт отрядам справа и слева от себя +{0} атаки,Gives +{0} attack to the adjacent units
+BOBBER2_ABILITY1,Даёт отрядам справа и слева от себя +4 атаки,Gives +4 attack to the adjacent units
+BOBBER3_NAME,Симпа,Cutie
+BOBBER3_ABILITY0,С {0:P1}-ным шансом не наносит урона в этот ход,Has a {0:P1} chance to deal no damage this turn
+BOBBER3_ABILITY1,С 10%-ным шансом не наносит урона в этот ход,Has a 10% chance to deal no damage this turn
+BOBBER4_NAME,Псих,Psycho
+BOBBER4_ABILITY0,Восстановить ваш случайный отряд на {0},Restore {0} hp to a random friendly unit
+BOBBER4_ABILITY1,Восстановить ваш случайный отряд на 8,Restore 8 hp to a random friendly unit
+CANDLE0_NAME,Бум,Boom
+CANDLE0_ABILITY0,С {0:P1}-ной вероятностью наносит 2 урона по всем вражеским отрядам ,Has a {0:P1} chance to deal 2 damage to all enemy units
+CANDLE0_ABILITY1,С 30%-ной вероятностью наносит 2 урона по всем вражеским отрядам ,Has a 30% chance to deal 2 damage to all enemy units
+CANDLE1_NAME,Рокет,Rocket
+CANDLE1_ABILITY0,Наносит урон также отрядам  рядом с целью,Also deals damage to units adjacent to the target
+CANDLE2_NAME,Бомб,Bomb
+CANDLE2_ABILITY0,"Заслон соседних отрядов( вместо того, чтобы атаковать отряд напротив, соперник атакует этот отряд)","Protecting adjacent units (instead of attacking the opposite unit, the opponent attacks this unit)"
+CANDLE2_ABILITY1,"Заслон всех отрядов( вместо того, чтобы атаковать отряд напротив, соперник атакует этот отряд)","Protecting all units (instead of attacking the opposite unit, the opponent attacks this unit)"
+CANDLE3_NAME,Граната,Grenade
+CANDLE3_ABILITY0,С {0:P}-ым шансом не получает урон в этот ход,Has a {0:P1} chance to take no damage this turn
+CANDLE3_ABILITY1,С 30%-ым шансом не получает урон в этот ход,Has a 30% chance to take no damage this turn
+CANDLE4_NAME,Сварщик,Welder
+CANDLE4_ABILITY0,С {0:P1}-ым шансом дать вашему случайному отряду +2 здоровья,Has a {0:P1} chance to give a random friendly unit +2 health
+CANDLE4_ABILITY1,С {0:P1}-ым шансом дать вашему случайному отряду +2 здоровья и +2 атаки,Has a {0:P1} chance to give a random friendly unit +2 health and +2 attack
+NaN,Нет особых способностей,No special ability
+ACORN0_ABILITY0_TITLE,Аннигиляция,Annihilation
+ACORN1_ABILITY0_TITLE,Устрашение,Intimidation
+ACORN2_ABILITY0_TITLE,Восстановление,Recovery
+ACORN3_ABILITY0_TITLE,Задеть за живое,Sting to the Quick
+ACORN4_ABILITY0_TITLE,Молот Рота,Hammer of Roth
+BOBBER0_ABILITY0_TITLE,Всосать урон,Absorb damage
+BOBBER1_ABILITY0_TITLE,Кураж,Courage
+BOBBER2_ABILITY0_TITLE,Воодушевление,Inspiration
+BOBBER3_ABILITY0_TITLE,Еще не дедлайн,Not deadline yet
+BOBBER4_ABILITY0_TITLE,Без очереди,Skip the line
+CANDLE0_ABILITY0_TITLE,Разброс,Scatter
+CANDLE1_ABILITY0_TITLE,Дробовик,Shotgun
+CANDLE2_ABILITY0_TITLE,Антикамикадзе,Antikamikaze
+CANDLE2_ABILITY1_TITLE,Заботливый броненосец,Caring armadillo
+CANDLE3_ABILITY0_TITLE,Верткий пескарь,Nimble eel
+CANDLE4_ABILITY0_TITLE,Щедрый,Generous
+CANDLE4_ABILITY1_TITLE,Даю всем,Second wind

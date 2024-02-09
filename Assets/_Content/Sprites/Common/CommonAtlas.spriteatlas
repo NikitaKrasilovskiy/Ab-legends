@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CommonAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d0e065f85dd8ca34baa01a68c40f57d6, type: 3}
+    - {fileID: 2800000, guid: 90aea05154b6c0945950bc7a426e77f0, type: 3}
+    - {fileID: 2800000, guid: a9cc68e93b8460d4c9ddeeb8dd2a0827, type: 3}
+    - {fileID: 21300000, guid: 146a0a55a047c7d4f8ca94fa605794b2, type: 3}
+    - {fileID: 2800000, guid: 1461196298e23774a99b7516f8786496, type: 3}
+    - {fileID: 2800000, guid: c9547d1c3cbd03f4a983c0256e7f4f0b, type: 3}
+    - {fileID: -8271695631056235039, guid: 906d9b75068e048498a626f744597e82, type: 3}
+    - {fileID: -3868456559043800881, guid: 906d9b75068e048498a626f744597e82, type: 3}
+    - {fileID: -7412936838226886675, guid: 906d9b75068e048498a626f744597e82, type: 3}
+    - {fileID: 21300000, guid: 4a712b761fbaa534b8ce60ec1877f18d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 90aea05154b6c0945950bc7a426e77f0, type: 3}
+  - {fileID: 21300000, guid: 1461196298e23774a99b7516f8786496, type: 3}
+  - {fileID: 21300000, guid: 146a0a55a047c7d4f8ca94fa605794b2, type: 3}
+  - {fileID: -3868456559043800881, guid: 906d9b75068e048498a626f744597e82, type: 3}
+  - {fileID: -8271695631056235039, guid: 906d9b75068e048498a626f744597e82, type: 3}
+  - {fileID: -7412936838226886675, guid: 906d9b75068e048498a626f744597e82, type: 3}
+  - {fileID: 21300000, guid: 4a712b761fbaa534b8ce60ec1877f18d, type: 3}
+  - {fileID: 21300000, guid: d0e065f85dd8ca34baa01a68c40f57d6, type: 3}
+  - {fileID: 21300000, guid: a9cc68e93b8460d4c9ddeeb8dd2a0827, type: 3}
+  - {fileID: 21300000, guid: c9547d1c3cbd03f4a983c0256e7f4f0b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - close_btn_dwn
+  - help_btn
+  - back_battle_wnd
+  - resources_panels_1
+  - resources_panels_0
+  - resources_panels_2
+  - tape
+  - deck_save_btn
+  - close_btn
+  - popup_bg
+  m_RenderDataMap: {}
+  m_Tag: CommonAtlas
+  m_IsVariant: 0

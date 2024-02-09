@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b25cef4a24d764b0b83c8736832cc283, type: 3}
+    - {fileID: 2800000, guid: 34877fce825e6413b8ae85136ae239bb, type: 3}
+    - {fileID: 2800000, guid: 1e34eb44df24d461086aab0024e1ee15, type: 3}
+    - {fileID: 2800000, guid: e27809a3b6baf49b093f460d888f4a67, type: 3}
+    - {fileID: 2800000, guid: d44e9e490b48147ae81963bdd6db26dd, type: 3}
+    - {fileID: 2800000, guid: f6a07aa0f2bf944b8ae8867931ea2746, type: 3}
+    - {fileID: 2800000, guid: 80bebdaaf90be40f29b971f6e0bcb4cb, type: 3}
+    - {fileID: 2800000, guid: 4b49a81f85d2145688ce2a1a795d5400, type: 3}
+    - {fileID: 2800000, guid: 907403f653c6e498a8d5d04b7ffb1c5b, type: 3}
+    - {fileID: 2800000, guid: d277804cc06434fbeaac0ae53f279b9b, type: 3}
+    - {fileID: 2800000, guid: 57faba6bbc2c74db2beb0b79b5fc6467, type: 3}
+    - {fileID: 2800000, guid: 17edca41fd1114fd4bdd1efa85965199, type: 3}
+    - {fileID: 2800000, guid: 43af2c5e2047641e484893b7de4cf8a1, type: 3}
+    - {fileID: 2800000, guid: 920644faf2bcf475ca04ba5e20f663cc, type: 3}
+    - {fileID: 2800000, guid: 09c328848c09e4bcd839899fa3aa518c, type: 3}
+    - {fileID: 2800000, guid: 904087e1ef46549fe9a880bdde328b33, type: 3}
+    - {fileID: 2800000, guid: b7eb0ccd69e1e4355b1e0ba13f2c0f63, type: 3}
+    - {fileID: 2800000, guid: 02386abb0384a4b4fb43b083d280c15c, type: 3}
+    - {fileID: 2800000, guid: 2d77e64debe874eb1bfc9bb6737cafe4, type: 3}
+    - {fileID: 2800000, guid: 47e227e9c6f74472689332a5abb92e57, type: 3}
+    - {fileID: 2800000, guid: 21137c216b9de4a4c8731a75cf3d40a7, type: 3}
+    - {fileID: 2800000, guid: a478b1ec09c284efd95a8cf225b10d54, type: 3}
+    - {fileID: 2800000, guid: b8a4c783083ad45cfb73310691d9bdcb, type: 3}
+    - {fileID: 2800000, guid: f01a3a4bdae764478b1810238453c2b9, type: 3}
+    - {fileID: 2800000, guid: 07fefe842e8194daf934d5b961a27ea8, type: 3}
+    - {fileID: 2800000, guid: b3047af8c88524bf293dd28f7a7a463b, type: 3}
+    - {fileID: 2800000, guid: a830f8548b0824079b5ff02ecdbf06cb, type: 3}
+    - {fileID: 2800000, guid: 0c084ee4282f54e1598c9c8378bdf1e2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f6a07aa0f2bf944b8ae8867931ea2746, type: 3}
+  - {fileID: 21300000, guid: 21137c216b9de4a4c8731a75cf3d40a7, type: 3}
+  - {fileID: 21300000, guid: 17edca41fd1114fd4bdd1efa85965199, type: 3}
+  - {fileID: 21300000, guid: 904087e1ef46549fe9a880bdde328b33, type: 3}
+  - {fileID: 21300000, guid: b8a4c783083ad45cfb73310691d9bdcb, type: 3}
+  - {fileID: 21300000, guid: e27809a3b6baf49b093f460d888f4a67, type: 3}
+  - {fileID: 21300000, guid: 1e34eb44df24d461086aab0024e1ee15, type: 3}
+  - {fileID: 21300000, guid: a830f8548b0824079b5ff02ecdbf06cb, type: 3}
+  - {fileID: 21300000, guid: 09c328848c09e4bcd839899fa3aa518c, type: 3}
+  - {fileID: 21300000, guid: 07fefe842e8194daf934d5b961a27ea8, type: 3}
+  - {fileID: 21300000, guid: 0c084ee4282f54e1598c9c8378bdf1e2, type: 3}
+  - {fileID: 21300000, guid: 907403f653c6e498a8d5d04b7ffb1c5b, type: 3}
+  - {fileID: 21300000, guid: b3047af8c88524bf293dd28f7a7a463b, type: 3}
+  - {fileID: 21300000, guid: d44e9e490b48147ae81963bdd6db26dd, type: 3}
+  - {fileID: 21300000, guid: 47e227e9c6f74472689332a5abb92e57, type: 3}
+  - {fileID: 21300000, guid: b25cef4a24d764b0b83c8736832cc283, type: 3}
+  - {fileID: 21300000, guid: 80bebdaaf90be40f29b971f6e0bcb4cb, type: 3}
+  - {fileID: 21300000, guid: 920644faf2bcf475ca04ba5e20f663cc, type: 3}
+  - {fileID: 21300000, guid: f01a3a4bdae764478b1810238453c2b9, type: 3}
+  - {fileID: 21300000, guid: 57faba6bbc2c74db2beb0b79b5fc6467, type: 3}
+  - {fileID: 21300000, guid: 02386abb0384a4b4fb43b083d280c15c, type: 3}
+  - {fileID: 21300000, guid: d277804cc06434fbeaac0ae53f279b9b, type: 3}
+  - {fileID: 21300000, guid: a478b1ec09c284efd95a8cf225b10d54, type: 3}
+  - {fileID: 21300000, guid: 2d77e64debe874eb1bfc9bb6737cafe4, type: 3}
+  - {fileID: 21300000, guid: b7eb0ccd69e1e4355b1e0ba13f2c0f63, type: 3}
+  - {fileID: 21300000, guid: 43af2c5e2047641e484893b7de4cf8a1, type: 3}
+  - {fileID: 21300000, guid: 34877fce825e6413b8ae85136ae239bb, type: 3}
+  - {fileID: 21300000, guid: 4b49a81f85d2145688ce2a1a795d5400, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - card_1_3_0
+  - leader_border
+  - card_2_3_0
+  - fire_solder
+  - level2
+  - card_1_1_0
+  - card_1_0_0
+  - shadow
+  - fire_leader
+  - scars
+  - solder_border
+  - card_2_0_0
+  - sea_leader
+  - card_1_2_0
+  - hp
+  - attack
+  - card_1_4_0
+  - card_2_5_0
+  - level3
+  - card_2_2_0
+  - forest_solder
+  - card_2_1_0
+  - level1
+  - green_back
+  - forest_leader
+  - card_2_4_0
+  - border
+  - card_1_5_0
+  m_RenderDataMap: {}
+  m_Tag: CardAtlas
+  m_IsVariant: 0

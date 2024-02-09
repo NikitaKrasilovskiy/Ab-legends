@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://lullabies-c1cf3.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">738882303123</string>
+  <string name="google_storage_bucket" translatable="false">lullabies-c1cf3.appspot.com</string>
+  <string name="project_id" translatable="false">lullabies-c1cf3</string>
+  <string name="google_api_key" translatable="false">AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys</string>
+  <string name="google_app_id" translatable="false">1:738882303123:android:f1fd90c0cf0d573753c966</string>
+  <string name="default_web_client_id" translatable="false">738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com</string>
+</resources>

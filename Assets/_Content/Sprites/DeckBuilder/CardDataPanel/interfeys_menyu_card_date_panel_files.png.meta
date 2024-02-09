@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 3fd5d1b4ebae60e43b6f261424bd0a12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -793032243455479270
+    second: interfeys_menyu_card_date_panel_files_0
+  - first:
+      213: 3085158070203119441
+    second: interfeys_menyu_card_date_panel_files_1
+  - first:
+      213: -6519905433476630295
+    second: interfeys_menyu_card_date_panel_files_2
+  - first:
+      213: 8182590409883706188
+    second: interfeys_menyu_card_date_panel_files_3
+  - first:
+      213: -4150114125725551638
+    second: interfeys_menyu_card_date_panel_files_4
+  - first:
+      213: -8791038412555966401
+    second: interfeys_menyu_card_date_panel_files_5
+  - first:
+      213: -7501310438610131340
+    second: interfeys_menyu_card_date_panel_files_6
+  - first:
+      213: 3139571168059043610
+    second: interfeys_menyu_card_date_panel_files_7
+  - first:
+      213: -5894432749438183796
+    second: interfeys_menyu_card_date_panel_files_8
+  - first:
+      213: -3703975315975979476
+    second: interfeys_menyu_card_date_panel_files_9
+  - first:
+      213: -3227193446371232992
+    second: interfeys_menyu_card_date_panel_files_10
+  - first:
+      213: -7035852384496203856
+    second: interfeys_menyu_card_date_panel_files_11
+  - first:
+      213: -3420654582536222467
+    second: interfeys_menyu_card_date_panel_files_12
+  - first:
+      213: -7473131023554236820
+    second: interfeys_menyu_card_date_panel_files_13
+  - first:
+      213: 3986696465924451717
+    second: interfeys_menyu_card_date_panel_files_0
+  - first:
+      213: -8326045892093249366
+    second: interfeys_menyu_card_date_panel_files_1
+  - first:
+      213: -4042971205154543586
+    second: interfeys_menyu_card_date_panel_files_2
+  - first:
+      213: -8248720377406721617
+    second: interfeys_menyu_card_date_panel_files_3
+  - first:
+      213: -391967416177360013
+    second: interfeys_menyu_card_date_panel_files_4
+  - first:
+      213: 7051983536945788928
+    second: interfeys_menyu_card_date_panel_files_5
+  - first:
+      213: 1398785221388224473
+    second: interfeys_menyu_card_date_panel_files_6
+  - first:
+      213: 7069191470920652347
+    second: interfeys_menyu_card_date_panel_files_7
+  - first:
+      213: -5842800164700177947
+    second: interfeys_menyu_card_date_panel_files_8
+  - first:
+      213: 5598843074309169129
+    second: interfeys_menyu_card_date_panel_files_9
+  - first:
+      213: 6409928407328647688
+    second: interfeys_menyu_card_date_panel_files_10
+  - first:
+      213: -7181187282633426336
+    second: interfeys_menyu_card_date_panel_files_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 802
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa175253588a68d80800000000000000
+      internalID: 8182590409883706188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 310
+        width: 802
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373883336b37f8af0800000000000000
+      internalID: -4150114125725551638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_5
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 333
+        width: 504
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0087e81f9adadd160800000000000000
+      internalID: -8791038412555966401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 705
+        width: 1936
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b76150659ef4f0800000000000000
+      internalID: -793032243455479270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_1
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1223
+        width: 1716
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157f2624beea0da20800000000000000
+      internalID: 3085158070203119441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_2
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 928
+        width: 1715
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e87c7c5d84a485a0800000000000000
+      internalID: -6519905433476630295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_6
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 206
+        width: 243
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d749ed6fbb796310800000000000000
+      internalID: -7501310438610131340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_7
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 284
+        width: 180
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3652794030da1260800000000000000
+      internalID: 3139571168059043610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_8
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 267
+        width: 154
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b379e4343aeea0800000000000000
+      internalID: -5894432749438183796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 755
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9a55bc1613bd40800000000000000
+      internalID: -3703975315975979476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_10
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 5
+        width: 754
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a628adce3a4f850800000000000000
+      internalID: -3227193446371232992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interfeys_menyu_card_date_panel_files_11
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 5
+        width: 753
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af419c63c475c90800000000000000
+      internalID: -7035852384496203856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      interfeys_menyu_card_date_panel_files_0: -793032243455479270
+      interfeys_menyu_card_date_panel_files_6: -7501310438610131340
+      interfeys_menyu_card_date_panel_files_3: 8182590409883706188
+      interfeys_menyu_card_date_panel_files_10: -3227193446371232992
+      interfeys_menyu_card_date_panel_files_2: -6519905433476630295
+      interfeys_menyu_card_date_panel_files_9: -3703975315975979476
+      interfeys_menyu_card_date_panel_files_1: 3085158070203119441
+      interfeys_menyu_card_date_panel_files_5: -8791038412555966401
+      interfeys_menyu_card_date_panel_files_11: -7035852384496203856
+      interfeys_menyu_card_date_panel_files_8: -5894432749438183796
+      interfeys_menyu_card_date_panel_files_7: 3139571168059043610
+      interfeys_menyu_card_date_panel_files_4: -4150114125725551638
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

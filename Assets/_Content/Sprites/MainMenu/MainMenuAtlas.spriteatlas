@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMenuAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 36028adebf7129d46afc573c4d63c229, type: 3}
+    - {fileID: 21300000, guid: f597c09fad2f4034280606a157243aeb, type: 3}
+    - {fileID: 21300000, guid: 01c07bc5517d400429bbcd99858b6fda, type: 3}
+    - {fileID: 21300000, guid: 54fd8478256fdf64fb08d9ba17a5ba2c, type: 3}
+    - {fileID: 21300000, guid: 08536d7cc5166df4686c8f97b38b2a5d, type: 3}
+    - {fileID: 21300000, guid: 6298728ab12c0484298d215dd0717ed3, type: 3}
+    - {fileID: 21300000, guid: e5c12e47fbab3b84797a1d5049a8eb21, type: 3}
+    - {fileID: 21300000, guid: d45c34dccb7f34344955424f20a2cce8, type: 3}
+    - {fileID: 21300000, guid: de60e902bfac0344bb9303d28fd94ec2, type: 3}
+    - {fileID: 21300000, guid: db9d5776119e1ab44aa7927bc85f87f9, type: 3}
+    - {fileID: 21300000, guid: 81352460108d9a24b877d1e1ed3c9368, type: 3}
+    - {fileID: 21300000, guid: 7b78ae0884604104db25f3144330ea6e, type: 3}
+    - {fileID: 21300000, guid: db35d6b4acdbb1c4da732c5fc156dd54, type: 3}
+    - {fileID: 21300000, guid: e557ae7b32c14904cbe99b672c60a8b9, type: 3}
+    - {fileID: 21300000, guid: acc164d3ba669a245b409533a4c0b50d, type: 3}
+    - {fileID: 21300000, guid: 2f99cc664d319864dad0d75a1d9f6a82, type: 3}
+    - {fileID: 21300000, guid: 1bb11dd8136766743924130c7513b89c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 81352460108d9a24b877d1e1ed3c9368, type: 3}
+  - {fileID: 21300000, guid: de60e902bfac0344bb9303d28fd94ec2, type: 3}
+  - {fileID: 21300000, guid: acc164d3ba669a245b409533a4c0b50d, type: 3}
+  - {fileID: 21300000, guid: db35d6b4acdbb1c4da732c5fc156dd54, type: 3}
+  - {fileID: 21300000, guid: 01c07bc5517d400429bbcd99858b6fda, type: 3}
+  - {fileID: 21300000, guid: 2f99cc664d319864dad0d75a1d9f6a82, type: 3}
+  - {fileID: 21300000, guid: db9d5776119e1ab44aa7927bc85f87f9, type: 3}
+  - {fileID: 21300000, guid: e5c12e47fbab3b84797a1d5049a8eb21, type: 3}
+  - {fileID: 21300000, guid: 7b78ae0884604104db25f3144330ea6e, type: 3}
+  - {fileID: 21300000, guid: 54fd8478256fdf64fb08d9ba17a5ba2c, type: 3}
+  - {fileID: 21300000, guid: 1bb11dd8136766743924130c7513b89c, type: 3}
+  - {fileID: 21300000, guid: 6298728ab12c0484298d215dd0717ed3, type: 3}
+  - {fileID: 21300000, guid: e557ae7b32c14904cbe99b672c60a8b9, type: 3}
+  - {fileID: 21300000, guid: 08536d7cc5166df4686c8f97b38b2a5d, type: 3}
+  - {fileID: 21300000, guid: d45c34dccb7f34344955424f20a2cce8, type: 3}
+  - {fileID: 21300000, guid: 36028adebf7129d46afc573c4d63c229, type: 3}
+  - {fileID: 21300000, guid: f597c09fad2f4034280606a157243aeb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - prize
+  - klans
+  - svecha
+  - settings
+  - boxes
+  - zshelud
+  - poplavok
+  - exit
+  - profile_btn
+  - chat
+  - TitleBG
+  - deck
+  - shop
+  - company
+  - gold_viewer
+  - achievs
+  - arena
+  m_RenderDataMap: {}
+  m_Tag: MainMenuAtlas
+  m_IsVariant: 0

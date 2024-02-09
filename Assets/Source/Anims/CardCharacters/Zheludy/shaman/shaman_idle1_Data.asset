@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: shaman_idle1_Data
+  m_EditorClassIdentifier: 
+  dataName: shaman_idle1
+  dragonBonesJSON: {fileID: 4900000, guid: 09db467166e89814da94f4cd723f7cbc, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 71254ef9b0e588a4f9b34545dd1e27cd, type: 3}
+    texture: {fileID: 2800000, guid: 276d989a0dc31204bbdd3ea86afa8508, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: 8b775d6e0a623264a8ab88e5cbc61a38, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: kamikadze1_Data
+  m_EditorClassIdentifier: 
+  dataName: kamikadze1
+  dragonBonesJSON: {fileID: 4900000, guid: 0acfd017d6f2d384cbc29dd2184321df, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: d495f2a10062b944da5da7f5f1414c47, type: 3}
+    texture: {fileID: 2800000, guid: c71cace93f2230348bb99ce34125c3f8, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: e718d1e3a5e72174190048068b7e2ea1, type: 2}

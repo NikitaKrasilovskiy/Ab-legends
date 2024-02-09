@@ -1,0 +1,1504 @@
+{
+  "cards": [
+    {
+      "id": "acorn0_1",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 1,
+      "health": 6,
+      "atack": 4,
+      "ability": "acorn0x0",
+      "abilityPower": 0.009999999776482582
+    },
+    {
+      "id": "acorn0_2",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 2,
+      "health": 7,
+      "atack": 5,
+      "ability": "acorn0x0",
+      "abilityPower": 0.009999999776482582
+    },
+    {
+      "id": "acorn0_3",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 3,
+      "health": 8,
+      "atack": 6,
+      "ability": "acorn0x0",
+      "abilityPower": 0.009999999776482582
+    },
+    {
+      "id": "acorn0_4",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 4,
+      "health": 9,
+      "atack": 7,
+      "ability": "acorn0x0",
+      "abilityPower": 0.009999999776482582
+    },
+    {
+      "id": "acorn0_5",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 5,
+      "health": 10,
+      "atack": 8,
+      "ability": "acorn0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "acorn0_6",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 6,
+      "health": 11,
+      "atack": 9,
+      "ability": "acorn0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "acorn0_7",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 7,
+      "health": 13,
+      "atack": 10,
+      "ability": "acorn0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "acorn0_8",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 8,
+      "health": 15,
+      "atack": 11,
+      "ability": "acorn0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "acorn0_9",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 9,
+      "health": 17,
+      "atack": 13,
+      "ability": "acorn0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "acorn0_10",
+      "name": "ACORN0_NAME",
+      "fraction": 0,
+      "lvl": 10,
+      "health": 19,
+      "atack": 15,
+      "ability": "acorn0x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "acorn1_1",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 1,
+      "health": 10,
+      "atack": 3,
+      "ability": "acorn1x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn1_2",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 2,
+      "health": 11,
+      "atack": 4,
+      "ability": "acorn1x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn1_3",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 3,
+      "health": 13,
+      "atack": 5,
+      "ability": "acorn1x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn1_4",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 4,
+      "health": 15,
+      "atack": 6,
+      "ability": "acorn1x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn1_5",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 5,
+      "health": 17,
+      "atack": 7,
+      "ability": "acorn1x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn1_6",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 6,
+      "health": 19,
+      "atack": 8,
+      "ability": "acorn1x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn1_7",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 7,
+      "health": 21,
+      "atack": 9,
+      "ability": "acorn1x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn1_8",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 8,
+      "health": 24,
+      "atack": 10,
+      "ability": "acorn1x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn1_9",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 9,
+      "health": 27,
+      "atack": 11,
+      "ability": "acorn1x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn1_10",
+      "name": "ACORN1_NAME",
+      "fraction": 0,
+      "lvl": 10,
+      "health": 30,
+      "atack": 13,
+      "ability": "acorn1x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "acorn2_1",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 1,
+      "health": 9,
+      "atack": 2,
+      "ability": "acorn2x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn2_2",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 2,
+      "health": 10,
+      "atack": 3,
+      "ability": "acorn2x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn2_3",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 3,
+      "health": 11,
+      "atack": 4,
+      "ability": "acorn2x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn2_4",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 4,
+      "health": 13,
+      "atack": 5,
+      "ability": "acorn2x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn2_5",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 5,
+      "health": 15,
+      "atack": 6,
+      "ability": "acorn2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn2_6",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 6,
+      "health": 17,
+      "atack": 7,
+      "ability": "acorn2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn2_7",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 7,
+      "health": 19,
+      "atack": 8,
+      "ability": "acorn2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn2_8",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 8,
+      "health": 21,
+      "atack": 9,
+      "ability": "acorn2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn2_9",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 9,
+      "health": 24,
+      "atack": 10,
+      "ability": "acorn2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn2_10",
+      "name": "ACORN2_NAME",
+      "fraction": 0,
+      "lvl": 10,
+      "health": 27,
+      "atack": 11,
+      "ability": "acorn2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn3_1",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 1,
+      "health": 9,
+      "atack": 3,
+      "ability": "acorn3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "acorn3_2",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 2,
+      "health": 10,
+      "atack": 4,
+      "ability": "acorn3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "acorn3_3",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 3,
+      "health": 11,
+      "atack": 5,
+      "ability": "acorn3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "acorn3_4",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 4,
+      "health": 13,
+      "atack": 6,
+      "ability": "acorn3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "acorn3_5",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 5,
+      "health": 15,
+      "atack": 7,
+      "ability": "acorn3x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "acorn3_6",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 6,
+      "health": 17,
+      "atack": 8,
+      "ability": "acorn3x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "acorn3_7",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 7,
+      "health": 19,
+      "atack": 9,
+      "ability": "acorn3x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "acorn3_8",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 8,
+      "health": 21,
+      "atack": 10,
+      "ability": "acorn3x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "acorn3_9",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 9,
+      "health": 24,
+      "atack": 11,
+      "ability": "acorn3x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "acorn3_10",
+      "name": "ACORN3_NAME",
+      "fraction": 0,
+      "lvl": 10,
+      "health": 27,
+      "atack": 13,
+      "ability": "acorn3x0",
+      "abilityPower": 0.15000000596046448
+    },
+    {
+      "id": "acorn4_1",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 1,
+      "health": 9,
+      "atack": 4,
+      "ability": "acorn4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn4_2",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 2,
+      "health": 10,
+      "atack": 5,
+      "ability": "acorn4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn4_3",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 3,
+      "health": 11,
+      "atack": 6,
+      "ability": "acorn4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn4_4",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 4,
+      "health": 13,
+      "atack": 7,
+      "ability": "acorn4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "acorn4_5",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 5,
+      "health": 15,
+      "atack": 8,
+      "ability": "acorn4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn4_6",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 6,
+      "health": 17,
+      "atack": 9,
+      "ability": "acorn4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn4_7",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 7,
+      "health": 19,
+      "atack": 10,
+      "ability": "acorn4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn4_8",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 8,
+      "health": 21,
+      "atack": 11,
+      "ability": "acorn4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn4_9",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 9,
+      "health": 24,
+      "atack": 13,
+      "ability": "acorn4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "acorn4_10",
+      "name": "ACORN4_NAME",
+      "fraction": 0,
+      "lvl": 10,
+      "health": 27,
+      "atack": 15,
+      "ability": "acorn4x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "bobber0_1",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 1,
+      "health": 9,
+      "atack": 3,
+      "ability": "bobber0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "bobber0_2",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 2,
+      "health": 10,
+      "atack": 4,
+      "ability": "bobber0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "bobber0_3",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 3,
+      "health": 11,
+      "atack": 5,
+      "ability": "bobber0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "bobber0_4",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 4,
+      "health": 13,
+      "atack": 6,
+      "ability": "bobber0x0",
+      "abilityPower": 0.019999999552965164
+    },
+    {
+      "id": "bobber0_5",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 5,
+      "health": 15,
+      "atack": 7,
+      "ability": "bobber0x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber0_6",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 6,
+      "health": 17,
+      "atack": 8,
+      "ability": "bobber0x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber0_7",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 7,
+      "health": 19,
+      "atack": 9,
+      "ability": "bobber0x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber0_8",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 8,
+      "health": 21,
+      "atack": 10,
+      "ability": "bobber0x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber0_9",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 9,
+      "health": 24,
+      "atack": 11,
+      "ability": "bobber0x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber0_10",
+      "name": "BOBBER0_NAME",
+      "fraction": 1,
+      "lvl": 10,
+      "health": 27,
+      "atack": 13,
+      "ability": "bobber0x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "bobber1_1",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 1,
+      "health": 9,
+      "atack": 3,
+      "ability": "bobber1x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber1_2",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 2,
+      "health": 10,
+      "atack": 4,
+      "ability": "bobber1x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber1_3",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 3,
+      "health": 11,
+      "atack": 5,
+      "ability": "bobber1x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber1_4",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 4,
+      "health": 13,
+      "atack": 6,
+      "ability": "bobber1x0",
+      "abilityPower": 0.029999999329447746
+    },
+    {
+      "id": "bobber1_5",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 5,
+      "health": 15,
+      "atack": 7,
+      "ability": "bobber1x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "bobber1_6",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 6,
+      "health": 17,
+      "atack": 8,
+      "ability": "bobber1x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "bobber1_7",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 7,
+      "health": 19,
+      "atack": 9,
+      "ability": "bobber1x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "bobber1_8",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 8,
+      "health": 21,
+      "atack": 10,
+      "ability": "bobber1x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "bobber1_9",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 9,
+      "health": 24,
+      "atack": 11,
+      "ability": "bobber1x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "bobber1_10",
+      "name": "BOBBER1_NAME",
+      "fraction": 1,
+      "lvl": 10,
+      "health": 27,
+      "atack": 13,
+      "ability": "bobber1x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "bobber2_1",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 1,
+      "health": 7,
+      "atack": 3,
+      "ability": "bobber2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber2_2",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 2,
+      "health": 8,
+      "atack": 4,
+      "ability": "bobber2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber2_3",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 3,
+      "health": 9,
+      "atack": 5,
+      "ability": "bobber2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber2_4",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 4,
+      "health": 10,
+      "atack": 6,
+      "ability": "bobber2x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber2_5",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 5,
+      "health": 11,
+      "atack": 7,
+      "ability": "bobber2x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "bobber2_6",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 6,
+      "health": 13,
+      "atack": 8,
+      "ability": "bobber2x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "bobber2_7",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 7,
+      "health": 15,
+      "atack": 9,
+      "ability": "bobber2x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "bobber2_8",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 8,
+      "health": 17,
+      "atack": 10,
+      "ability": "bobber2x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "bobber2_9",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 9,
+      "health": 19,
+      "atack": 11,
+      "ability": "bobber2x0",
+      "abilityPower": 3
+    },
+    {
+      "id": "bobber2_10",
+      "name": "BOBBER2_NAME",
+      "fraction": 1,
+      "lvl": 10,
+      "health": 21,
+      "atack": 13,
+      "ability": "bobber2x0",
+      "abilityPower": 4
+    },
+    {
+      "id": "bobber3_1",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 1,
+      "health": 9,
+      "atack": 4,
+      "ability": "bobber3x0",
+      "abilityPower": 0.5
+    },
+    {
+      "id": "bobber3_2",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 2,
+      "health": 10,
+      "atack": 5,
+      "ability": "bobber3x0",
+      "abilityPower": 0.5
+    },
+    {
+      "id": "bobber3_3",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 3,
+      "health": 11,
+      "atack": 6,
+      "ability": "bobber3x0",
+      "abilityPower": 0.5
+    },
+    {
+      "id": "bobber3_4",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 4,
+      "health": 13,
+      "atack": 7,
+      "ability": "bobber3x0",
+      "abilityPower": 0.5
+    },
+    {
+      "id": "bobber3_5",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 5,
+      "health": 15,
+      "atack": 8,
+      "ability": "bobber3x0",
+      "abilityPower": 0.4000000059604645
+    },
+    {
+      "id": "bobber3_6",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 6,
+      "health": 17,
+      "atack": 9,
+      "ability": "bobber3x0",
+      "abilityPower": 0.4000000059604645
+    },
+    {
+      "id": "bobber3_7",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 7,
+      "health": 19,
+      "atack": 10,
+      "ability": "bobber3x0",
+      "abilityPower": 0.4000000059604645
+    },
+    {
+      "id": "bobber3_8",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 8,
+      "health": 21,
+      "atack": 11,
+      "ability": "bobber3x0",
+      "abilityPower": 0.4000000059604645
+    },
+    {
+      "id": "bobber3_9",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 9,
+      "health": 24,
+      "atack": 13,
+      "ability": "bobber3x0",
+      "abilityPower": 0.4000000059604645
+    },
+    {
+      "id": "bobber3_10",
+      "name": "BOBBER3_NAME",
+      "fraction": 1,
+      "lvl": 10,
+      "health": 27,
+      "atack": 15,
+      "ability": "bobber3x0",
+      "abilityPower": 0.30000001192092896
+    },
+    {
+      "id": "bobber4_1",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 1,
+      "health": 7,
+      "atack": 3,
+      "ability": "bobber4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber4_2",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 2,
+      "health": 8,
+      "atack": 4,
+      "ability": "bobber4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber4_3",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 3,
+      "health": 9,
+      "atack": 5,
+      "ability": "bobber4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber4_4",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 4,
+      "health": 10,
+      "atack": 6,
+      "ability": "bobber4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "bobber4_5",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 5,
+      "health": 11,
+      "atack": 7,
+      "ability": "bobber4x0",
+      "abilityPower": 4
+    },
+    {
+      "id": "bobber4_6",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 6,
+      "health": 13,
+      "atack": 8,
+      "ability": "bobber4x0",
+      "abilityPower": 4
+    },
+    {
+      "id": "bobber4_7",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 7,
+      "health": 15,
+      "atack": 9,
+      "ability": "bobber4x0",
+      "abilityPower": 4
+    },
+    {
+      "id": "bobber4_8",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 8,
+      "health": 17,
+      "atack": 10,
+      "ability": "bobber4x0",
+      "abilityPower": 4
+    },
+    {
+      "id": "bobber4_9",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 9,
+      "health": 19,
+      "atack": 11,
+      "ability": "bobber4x0",
+      "abilityPower": 4
+    },
+    {
+      "id": "bobber4_10",
+      "name": "BOBBER4_NAME",
+      "fraction": 1,
+      "lvl": 10,
+      "health": 21,
+      "atack": 13,
+      "ability": "bobber4x0",
+      "abilityPower": 6
+    },
+    {
+      "id": "candle0_1",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 1,
+      "health": 6,
+      "atack": 4,
+      "ability": "candle0x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle0_2",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 2,
+      "health": 7,
+      "atack": 5,
+      "ability": "candle0x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle0_3",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 3,
+      "health": 8,
+      "atack": 6,
+      "ability": "candle0x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle0_4",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 4,
+      "health": 9,
+      "atack": 7,
+      "ability": "candle0x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle0_5",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 5,
+      "health": 10,
+      "atack": 8,
+      "ability": "candle0x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle0_6",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 6,
+      "health": 11,
+      "atack": 9,
+      "ability": "candle0x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle0_7",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 7,
+      "health": 13,
+      "atack": 10,
+      "ability": "candle0x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle0_8",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 8,
+      "health": 15,
+      "atack": 11,
+      "ability": "candle0x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle0_9",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 9,
+      "health": 17,
+      "atack": 13,
+      "ability": "candle0x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle0_10",
+      "name": "CANDLE0_NAME",
+      "fraction": 2,
+      "lvl": 10,
+      "health": 19,
+      "atack": 15,
+      "ability": "candle0x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "candle1_1",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 1,
+      "health": 8,
+      "atack": 4,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_2",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 2,
+      "health": 9,
+      "atack": 5,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_3",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 3,
+      "health": 10,
+      "atack": 6,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_4",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 4,
+      "health": 11,
+      "atack": 7,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_5",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 5,
+      "health": 13,
+      "atack": 8,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_6",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 6,
+      "health": 15,
+      "atack": 9,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_7",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 7,
+      "health": 17,
+      "atack": 10,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_8",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 8,
+      "health": 19,
+      "atack": 11,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_9",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 9,
+      "health": 21,
+      "atack": 13,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle1_10",
+      "name": "CANDLE1_NAME",
+      "fraction": 2,
+      "lvl": 10,
+      "health": 24,
+      "atack": 15,
+      "ability": "candle1x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_1",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 1,
+      "health": 8,
+      "atack": 2,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_2",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 2,
+      "health": 9,
+      "atack": 3,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_3",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 3,
+      "health": 10,
+      "atack": 4,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_4",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 4,
+      "health": 11,
+      "atack": 5,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_5",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 5,
+      "health": 13,
+      "atack": 6,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_6",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 6,
+      "health": 15,
+      "atack": 7,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_7",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 7,
+      "health": 17,
+      "atack": 8,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_8",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 8,
+      "health": 19,
+      "atack": 9,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_9",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 9,
+      "health": 21,
+      "atack": 10,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle2_10",
+      "name": "CANDLE2_NAME",
+      "fraction": 2,
+      "lvl": 10,
+      "health": 24,
+      "atack": 11,
+      "ability": "candle2x0",
+      "abilityPower": 0
+    },
+    {
+      "id": "candle3_1",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 1,
+      "health": 8,
+      "atack": 3,
+      "ability": "candle3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle3_2",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 2,
+      "health": 9,
+      "atack": 4,
+      "ability": "candle3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle3_3",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 3,
+      "health": 10,
+      "atack": 5,
+      "ability": "candle3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle3_4",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 4,
+      "health": 11,
+      "atack": 6,
+      "ability": "candle3x0",
+      "abilityPower": 0.05000000074505806
+    },
+    {
+      "id": "candle3_5",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 5,
+      "health": 13,
+      "atack": 7,
+      "ability": "candle3x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle3_6",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 6,
+      "health": 15,
+      "atack": 8,
+      "ability": "candle3x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle3_7",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 7,
+      "health": 17,
+      "atack": 9,
+      "ability": "candle3x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle3_8",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 8,
+      "health": 19,
+      "atack": 10,
+      "ability": "candle3x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle3_9",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 9,
+      "health": 21,
+      "atack": 11,
+      "ability": "candle3x0",
+      "abilityPower": 0.07000000029802322
+    },
+    {
+      "id": "candle3_10",
+      "name": "CANDLE3_NAME",
+      "fraction": 2,
+      "lvl": 10,
+      "health": 24,
+      "atack": 13,
+      "ability": "candle3x0",
+      "abilityPower": 0.10000000149011612
+    },
+    {
+      "id": "candle4_1",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 1,
+      "health": 8,
+      "atack": 3,
+      "ability": "candle4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "candle4_2",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 2,
+      "health": 9,
+      "atack": 4,
+      "ability": "candle4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "candle4_3",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 3,
+      "health": 10,
+      "atack": 5,
+      "ability": "candle4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "candle4_4",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 4,
+      "health": 11,
+      "atack": 6,
+      "ability": "candle4x0",
+      "abilityPower": 1
+    },
+    {
+      "id": "candle4_5",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 5,
+      "health": 13,
+      "atack": 7,
+      "ability": "candle4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "candle4_6",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 6,
+      "health": 15,
+      "atack": 8,
+      "ability": "candle4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "candle4_7",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 7,
+      "health": 17,
+      "atack": 9,
+      "ability": "candle4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "candle4_8",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 8,
+      "health": 19,
+      "atack": 10,
+      "ability": "candle4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "candle4_9",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 9,
+      "health": 21,
+      "atack": 11,
+      "ability": "candle4x0",
+      "abilityPower": 2
+    },
+    {
+      "id": "candle4_10",
+      "name": "CANDLE4_NAME",
+      "fraction": 2,
+      "lvl": 10,
+      "health": 24,
+      "atack": 13,
+      "ability": "candle4x0",
+      "abilityPower": 3
+    }
+  ]
+}

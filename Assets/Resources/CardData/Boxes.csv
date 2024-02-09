@@ -1,0 +1,7 @@
+Size,Probability,Cooldown (sec),Gold,Ruby,Cards,
+Small,"0,5",10800,150,5,1,
+Normal,"0,3",10800,300,10,1,
+Big,"0,15",10800,500,15,1,
+Large,"0,05",10800,1000,20,1,
+Rare,,,2000,,10,LvL 3
+Legendary,,,10000,,25,LvL 6

@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bce15ca02fd1a846888991bf206ed86, type: 3}
+  m_Name: GraphicCollection
+  m_EditorClassIdentifier: 
+  avatarCollection:
+    sprites:
+    - id: acorn0_1
+      sprite: {fileID: 21300000, guid: f6a07aa0f2bf944b8ae8867931ea2746, type: 3}
+    - id: acorn0_2
+      sprite: {fileID: 21300000, guid: f6a07aa0f2bf944b8ae8867931ea2746, type: 3}
+    - id: acorn0_3
+      sprite: {fileID: 21300000, guid: f6a07aa0f2bf944b8ae8867931ea2746, type: 3}
+    - id: acorn1_1
+      sprite: {fileID: 21300000, guid: e27809a3b6baf49b093f460d888f4a67, type: 3}
+    - id: acorn1_2
+      sprite: {fileID: 21300000, guid: e27809a3b6baf49b093f460d888f4a67, type: 3}
+    - id: acorn1_3
+      sprite: {fileID: 21300000, guid: e27809a3b6baf49b093f460d888f4a67, type: 3}
+    - id: acorn2_1
+      sprite: {fileID: 21300000, guid: d44e9e490b48147ae81963bdd6db26dd, type: 3}
+    - id: acorn2_2
+      sprite: {fileID: 21300000, guid: d44e9e490b48147ae81963bdd6db26dd, type: 3}
+    - id: acorn2_3
+      sprite: {fileID: 21300000, guid: d44e9e490b48147ae81963bdd6db26dd, type: 3}
+    - id: acorn3_1
+      sprite: {fileID: 21300000, guid: 80bebdaaf90be40f29b971f6e0bcb4cb, type: 3}
+    - id: acorn3_2
+      sprite: {fileID: 21300000, guid: 80bebdaaf90be40f29b971f6e0bcb4cb, type: 3}
+    - id: acorn3_3
+      sprite: {fileID: 21300000, guid: 80bebdaaf90be40f29b971f6e0bcb4cb, type: 3}
+    - id: acorn4_1
+      sprite: {fileID: 21300000, guid: 4b49a81f85d2145688ce2a1a795d5400, type: 3}
+    - id: acorn4_2
+      sprite: {fileID: 21300000, guid: 4b49a81f85d2145688ce2a1a795d5400, type: 3}
+    - id: acorn4_3
+      sprite: {fileID: 21300000, guid: 4b49a81f85d2145688ce2a1a795d5400, type: 3}
+    - id: bobber0_1
+      sprite: {fileID: 21300000, guid: 57faba6bbc2c74db2beb0b79b5fc6467, type: 3}
+    - id: bobber0_2
+      sprite: {fileID: 21300000, guid: 57faba6bbc2c74db2beb0b79b5fc6467, type: 3}
+    - id: bobber0_3
+      sprite: {fileID: 21300000, guid: 57faba6bbc2c74db2beb0b79b5fc6467, type: 3}
+    - id: bobber1_1
+      sprite: {fileID: 21300000, guid: 43af2c5e2047641e484893b7de4cf8a1, type: 3}
+    - id: bobber1_2
+      sprite: {fileID: 21300000, guid: 43af2c5e2047641e484893b7de4cf8a1, type: 3}
+    - id: bobber1_3
+      sprite: {fileID: 21300000, guid: 43af2c5e2047641e484893b7de4cf8a1, type: 3}
+    - id: bobber2_1
+      sprite: {fileID: 21300000, guid: 17edca41fd1114fd4bdd1efa85965199, type: 3}
+    - id: bobber2_2
+      sprite: {fileID: 21300000, guid: 17edca41fd1114fd4bdd1efa85965199, type: 3}
+    - id: bobber2_3
+      sprite: {fileID: 21300000, guid: 17edca41fd1114fd4bdd1efa85965199, type: 3}
+    - id: bobber3_1
+      sprite: {fileID: 21300000, guid: 920644faf2bcf475ca04ba5e20f663cc, type: 3}
+    - id: bobber3_2
+      sprite: {fileID: 21300000, guid: 920644faf2bcf475ca04ba5e20f663cc, type: 3}
+    - id: bobber3_3
+      sprite: {fileID: 21300000, guid: 920644faf2bcf475ca04ba5e20f663cc, type: 3}
+    - id: bobber4_1
+      sprite: {fileID: 21300000, guid: d277804cc06434fbeaac0ae53f279b9b, type: 3}
+    - id: bobber4_2
+      sprite: {fileID: 21300000, guid: d277804cc06434fbeaac0ae53f279b9b, type: 3}
+    - id: bobber4_3
+      sprite: {fileID: 21300000, guid: d277804cc06434fbeaac0ae53f279b9b, type: 3}
+    - id: candle0_1
+      sprite: {fileID: 21300000, guid: 43cd0362da9fd4543b604588a5469c66, type: 3}
+    - id: candle0_2
+      sprite: {fileID: 21300000, guid: 43cd0362da9fd4543b604588a5469c66, type: 3}
+    - id: candle0_3
+      sprite: {fileID: 21300000, guid: 43cd0362da9fd4543b604588a5469c66, type: 3}
+    - id: candle1_1
+      sprite: {fileID: 21300000, guid: 1fb8e0992ecfd7a4ba03546c2f672b01, type: 3}
+    - id: candle1_2
+      sprite: {fileID: 21300000, guid: 1fb8e0992ecfd7a4ba03546c2f672b01, type: 3}
+    - id: candle1_3
+      sprite: {fileID: 21300000, guid: 1fb8e0992ecfd7a4ba03546c2f672b01, type: 3}
+    - id: candle2_1
+      sprite: {fileID: 21300000, guid: 37f00fbd33240f74597d2d3679222a7d, type: 3}
+    - id: candle2_2
+      sprite: {fileID: 21300000, guid: 37f00fbd33240f74597d2d3679222a7d, type: 3}
+    - id: candle2_3
+      sprite: {fileID: 21300000, guid: 37f00fbd33240f74597d2d3679222a7d, type: 3}
+    - id: candle3_1
+      sprite: {fileID: 21300000, guid: ef7d02e4985ab954d829ec432d1356c7, type: 3}
+    - id: candle3_2
+      sprite: {fileID: 21300000, guid: ef7d02e4985ab954d829ec432d1356c7, type: 3}
+    - id: candle3_3
+      sprite: {fileID: 21300000, guid: ef7d02e4985ab954d829ec432d1356c7, type: 3}
+    - id: candle4_1
+      sprite: {fileID: 21300000, guid: 525827b2cbd6ed644a69c53daa31e809, type: 3}
+    - id: candle4_2
+      sprite: {fileID: 21300000, guid: 525827b2cbd6ed644a69c53daa31e809, type: 3}
+    - id: candle4_3
+      sprite: {fileID: 21300000, guid: 525827b2cbd6ed644a69c53daa31e809, type: 3}
+    - id: acorn_leader
+      sprite: {fileID: 21300000, guid: 1e34eb44df24d461086aab0024e1ee15, type: 3}
+    - id: bobber_leader
+      sprite: {fileID: 21300000, guid: 907403f653c6e498a8d5d04b7ffb1c5b, type: 3}
+    - id: candle_leader
+      sprite: {fileID: 21300000, guid: 5b3575b37cb72944aa1652c97120b798, type: 3}
+  abilityCollection:
+    sprites:
+    - id: NaN
+      sprite: {fileID: 21300000, guid: 216db248398208142b34596a9b5f2a65, type: 3}
+    - id: acorn0x0
+      sprite: {fileID: 21300000, guid: ba46cc0c808fdf04d8b397a37804ab19, type: 3}
+    - id: acorn0x1
+      sprite: {fileID: 21300000, guid: 1d618534625e4f14a9612b28d78435f7, type: 3}
+    - id: acorn1x0
+      sprite: {fileID: 21300000, guid: 158d29ab8ae34dc42a206e9d5c09d99d, type: 3}
+    - id: acorn1x1
+      sprite: {fileID: 21300000, guid: ba4e5b431ababf841b9b1b0265b6a945, type: 3}
+    - id: acorn2x0
+      sprite: {fileID: 21300000, guid: 34fe5ce035936a74e996a41aa90675ea, type: 3}
+    - id: acorn2x1
+      sprite: {fileID: 21300000, guid: 359c89a27710f18499878eee6d73f8c9, type: 3}
+    - id: acorn3x0
+      sprite: {fileID: 21300000, guid: 295c711bda8247c4eb8b128bda2bb9d0, type: 3}
+    - id: acorn3x1
+      sprite: {fileID: 21300000, guid: 7d6389f6f7742fc48b6345fe207170c5, type: 3}
+    - id: acorn4x0
+      sprite: {fileID: 21300000, guid: cabe36cd232f1cd4e915eb831af6c338, type: 3}
+    - id: acorn4x1
+      sprite: {fileID: 21300000, guid: 9178b75a871a988488e9d5132a8c1caf, type: 3}
+    - id: bobber0x0
+      sprite: {fileID: 21300000, guid: 4f400cb0eac9d30428785a553ad49db2, type: 3}
+    - id: bobber0x1
+      sprite: {fileID: 21300000, guid: 8df38b898def8cc41b9a5163c976e2f5, type: 3}
+    - id: bobber1x0
+      sprite: {fileID: 21300000, guid: 8d41c4fd40eba464fbff989db430c18c, type: 3}
+    - id: bobber1x1
+      sprite: {fileID: 21300000, guid: 48e8fb29e098e544797e198ea45f878a, type: 3}
+    - id: bobber2x0
+      sprite: {fileID: 21300000, guid: 0e5f8da5b6142514c8eb8bc2b0a4cfcf, type: 3}
+    - id: bobber2x1
+      sprite: {fileID: 21300000, guid: 4d99e4b31543f3b4d8fffe221084f08a, type: 3}
+    - id: bobber3x0
+      sprite: {fileID: 21300000, guid: c4091230a5a8a984e80a6fb09a29def9, type: 3}
+    - id: bobber3x1
+      sprite: {fileID: 21300000, guid: 309af955c57cde4408922694fa74afc0, type: 3}
+    - id: bobber4x0
+      sprite: {fileID: 21300000, guid: 1e2766ff33612ea438249902c0db4984, type: 3}
+    - id: bobber4x1
+      sprite: {fileID: 21300000, guid: bf6c6e338e85e31439fe3571deab3e80, type: 3}
+    - id: candle0x0
+      sprite: {fileID: 21300000, guid: 76f2e8d7c9e6c3241b95a0e88f0eace6, type: 3}
+    - id: candle0x1
+      sprite: {fileID: 21300000, guid: 3bd8b3a80f950bb408a6ff0428898983, type: 3}
+    - id: candle1x0
+      sprite: {fileID: 21300000, guid: c3d192a8dbeff4343a78dac9bf50f40b, type: 3}
+    - id: candle2x0
+      sprite: {fileID: 21300000, guid: 6efe9e7df3439a34899cecddbf628925, type: 3}
+    - id: candle2x1
+      sprite: {fileID: 21300000, guid: f5e99d5ba0c41e341951998b4ceccab0, type: 3}
+    - id: candle3x0
+      sprite: {fileID: 21300000, guid: ca47a771b07f3f048878a3370aa6e993, type: 3}
+    - id: candle3x1
+      sprite: {fileID: 21300000, guid: b2ac3d63bd7b0b544a9e6a06065a443a, type: 3}
+    - id: candle4x0
+      sprite: {fileID: 21300000, guid: f13177c43bb13a44192f621be2373ba4, type: 3}
+    - id: candle4x1
+      sprite: {fileID: 21300000, guid: a7d10df1b1f054140be1a03e5708accb, type: 3}
+  taskIconCollection:
+    sprites:
+    - id: daily0
+      sprite: {fileID: 21300000, guid: 788dcee0dd2b4c44ebf26067bb77e039, type: 3}
+    - id: daily1
+      sprite: {fileID: 21300000, guid: 49274a7631dc4104393eb904f7d4fd78, type: 3}
+    - id: daily2
+      sprite: {fileID: 21300000, guid: c94e5590f15849e4faf172c05cc9e39b, type: 3}
+  achievmentIconCollection:
+    sprites:
+    - id: test0True
+      sprite: {fileID: 21300000, guid: ba46cc0c808fdf04d8b397a37804ab19, type: 3}
+    - id: test0False
+      sprite: {fileID: 21300000, guid: ba46cc0c808fdf04d8b397a37804ab19, type: 3}
+    - id: test1True
+      sprite: {fileID: 21300000, guid: 1d618534625e4f14a9612b28d78435f7, type: 3}
+    - id: test1False
+      sprite: {fileID: 21300000, guid: 1d618534625e4f14a9612b28d78435f7, type: 3}
+    - id: test2True
+      sprite: {fileID: 21300000, guid: 158d29ab8ae34dc42a206e9d5c09d99d, type: 3}
+    - id: test2False
+      sprite: {fileID: 21300000, guid: 158d29ab8ae34dc42a206e9d5c09d99d, type: 3}
+  prefsCollection:
+    namedPrefs:
+    - id: acorn0_
+      pref: {fileID: 2137620315936057962, guid: 5e48db49ecb6da54993858da68f82fcb,
+        type: 3}
+    - id: acorn1_
+      pref: {fileID: 1252999465753162046, guid: a1f022487aeb19e48a79a5b9c3978da0,
+        type: 3}
+    - id: acorn2_
+      pref: {fileID: 6514740562443754928, guid: 809b225de3af13d48b5368f54dbdc5b5,
+        type: 3}
+    - id: acorn3_
+      pref: {fileID: 4271753037893133868, guid: 9b8503ce972fde446b85122fc2175d46,
+        type: 3}
+    - id: acorn4_
+      pref: {fileID: 435898576123130809, guid: 7d32037c0f111a042811d3e568162e4d, type: 3}
+    - id: acorn_leader
+      pref: {fileID: 3362433492249311245, guid: 2b405da3f4a7b2f43b26ab673d51ed3a,
+        type: 3}
+    - id: bobber0_
+      pref: {fileID: 7053930975165332395, guid: d2a85af3ef27b854a88621c24c2fbae8,
+        type: 3}
+    - id: bobber1_
+      pref: {fileID: 2014078279200351180, guid: 4229f6dbfcc7b2c4fa01a6e209a4d176,
+        type: 3}
+    - id: bobber2_
+      pref: {fileID: 8451288442153126016, guid: e6bc7dc969102904490fc014c5223c6d,
+        type: 3}
+    - id: bobber3_
+      pref: {fileID: 336473906758809490, guid: dfd5b07f97e9d1d4a9a03d545081026e, type: 3}
+    - id: bobber4_
+      pref: {fileID: 8868010169680144611, guid: 1de35415ae975b54883561d750a0154c,
+        type: 3}
+    - id: bobber_leader
+      pref: {fileID: 6759110163956731951, guid: e52573075e56f0b49979f6f93611aed5,
+        type: 3}
+    - id: candle0_
+      pref: {fileID: 3814776255321939969, guid: 677486b80a087614689a525f256b5435,
+        type: 3}
+    - id: candle1_
+      pref: {fileID: 7515653010546661491, guid: f36bb3c9d3975264780b0c7e614a449b,
+        type: 3}
+    - id: candle2_
+      pref: {fileID: 1754313643105619703, guid: e9abd3ba1d74e6d43832a34fd83e78e2,
+        type: 3}
+    - id: candle3_
+      pref: {fileID: 2537198881965970623, guid: 01990ca7a53ea7d4d86942bf17878c1f,
+        type: 3}
+    - id: candle4_
+      pref: {fileID: 7092722230189561885, guid: 3fc511a592ad9a74cb1be942d112861d,
+        type: 3}
+    - id: candle_leader
+      pref: {fileID: 9219413483805897549, guid: 8ba927a1ab3737d4994ceabacaf7d2f9,
+        type: 3}

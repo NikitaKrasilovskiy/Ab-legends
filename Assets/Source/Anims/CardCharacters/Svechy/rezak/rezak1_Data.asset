@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: rezak1_Data
+  m_EditorClassIdentifier: 
+  dataName: rezak1
+  dragonBonesJSON: {fileID: 4900000, guid: 67b22a16d949f0447981130fb8425f37, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 79f49272afa92894788b4502346e1be5, type: 3}
+    texture: {fileID: 2800000, guid: e2283caed68d69b478f1bbb563ebed60, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: f851c0b0e9d619b42a1947de81cf0ad3, type: 2}

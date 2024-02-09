@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff49616bea6074d4f891952389e54444, type: 3}
+  m_Name: AudioCollection
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: album_open
+    audioClip: {fileID: 8300000, guid: ccbe9b813ff74f24a9d86fb06f61c287, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: album_page_turn
+    audioClip: {fileID: 8300000, guid: d8630dec09fbd134c8f79c2a29390443, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: menu_card_get
+    audioClip: {fileID: 8300000, guid: 4466cd57ee805de46a974d747e446c88, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: menu_card_placed
+    audioClip: {fileID: 8300000, guid: 6a01b069915d07f488082de24fbf4eb6, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: menu_card_release
+    audioClip: {fileID: 8300000, guid: b50410de49551b0478014266d2d14504, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: card_atack
+    audioClip: {fileID: 8300000, guid: 9a81a3aa08774ae458da0c7dc3f5a3d9, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: card_destroy
+    audioClip: {fileID: 8300000, guid: 59bdf0b1e6befbf448383d6b40909abd, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: click
+    audioClip: {fileID: 8300000, guid: b3266761428fc4341aa5069922ab8663, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: win
+    audioClip: {fileID: 8300000, guid: 373b57ce904663b47b9bfb19557b50a7, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: lose
+    audioClip: {fileID: 8300000, guid: a2d345237458fae4194fd2cf245f9681, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: card_remove
+    audioClip: {fileID: 8300000, guid: 59bdf0b1e6befbf448383d6b40909abd, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: card_upgrade
+    audioClip: {fileID: 8300000, guid: b5e4a7d9f3d35fc489fa61ddb6ba3964, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: nickname_error
+    audioClip: {fileID: 8300000, guid: 5ed2c18ad51476b4f8f264e9cb694bf0, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: box_vibration
+    audioClip: {fileID: 8300000, guid: 3fbc050fefd131b4a8c8cd035b7fcb47, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: box_open
+    audioClip: {fileID: 8300000, guid: d7add2976b588aa48a3ca21a69c66c60, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: box_show_medal
+    audioClip: {fileID: 8300000, guid: f76dc8cb406f0b8419c5dd3a1b2d7bb4, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: card_destroy
+    audioClip: {fileID: 8300000, guid: cc2657f8a9c205f488b8e73bbbfd9687, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: card_take_damage
+    audioClip: {fileID: 8300000, guid: 07716e72bd583d145a1b0a22f5de166d, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn0_atack
+    audioClip: {fileID: 8300000, guid: f224521120b160544b269f45f32953d4, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn0_damage
+    audioClip: {fileID: 8300000, guid: 6fc064c82ca36d048bd843b455c65a14, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn0_death
+    audioClip: {fileID: 8300000, guid: e7c7e37a53bd09a438dced739b52449f, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn1_atack
+    audioClip: {fileID: 8300000, guid: 21e7abcad9475ac47bef7112e0c5bc5c, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn1_damage
+    audioClip: {fileID: 8300000, guid: ff46efa9ee881594db17b67027828749, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn1_death
+    audioClip: {fileID: 8300000, guid: 10ff334d3e7ffe645a420c53c1ac6abf, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn2_atack
+    audioClip: {fileID: 8300000, guid: 17569362c67b4704d8e7335c7f3f7720, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn2_damage
+    audioClip: {fileID: 8300000, guid: f50b3ec863cf0bb4d85c6f91203db442, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn2_death
+    audioClip: {fileID: 8300000, guid: 1c2bb93a1c9c9d2478a0c69b7bde38e1, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn3_atack
+    audioClip: {fileID: 8300000, guid: 99287ffc9c2d76a42a8082a510631017, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn3_damage
+    audioClip: {fileID: 8300000, guid: d3977d8787a6e284ab7ea1ab4d6fac45, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn3_death
+    audioClip: {fileID: 8300000, guid: 9a779accc8e22ab4099840f3401f05fb, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn4_atack
+    audioClip: {fileID: 8300000, guid: efd99e31860ddbd448f66762eba88837, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn4_damage
+    audioClip: {fileID: 8300000, guid: a18ace417b1d0364ca1325628a55b456, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn4_death
+    audioClip: {fileID: 8300000, guid: aef8c6b22358db148bd0ce1ee14d7782, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: acorn_leader
+    audioClip: {fileID: 8300000, guid: 87fc8891144cdd947aa3f9a131ade4a9, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber0_atack
+    audioClip: {fileID: 8300000, guid: 11fa91c4092cd0246a6c14e791677000, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber0_damage
+    audioClip: {fileID: 8300000, guid: eabfaecdb37e8db49bb280188522d9ac, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber0_death
+    audioClip: {fileID: 8300000, guid: 9d2710b9621740a4da3e3f7d7ef0e69f, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber1_atack
+    audioClip: {fileID: 8300000, guid: e26253b3ded6f7543b586cccfc709d39, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber1_damage
+    audioClip: {fileID: 8300000, guid: 071281bbb9148b5489066f4d4a922558, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber1_death
+    audioClip: {fileID: 8300000, guid: dc54b70a8a2c8094a80ce8af7dfec072, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber2_atack
+    audioClip: {fileID: 8300000, guid: be112f686d6e6624b8e637d7e68678cb, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber2_damage
+    audioClip: {fileID: 8300000, guid: d8161251aed4b07478254a18882758d0, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber2_death
+    audioClip: {fileID: 8300000, guid: a4d49d77423cef644903ff7f2dc83ae8, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber3_atack
+    audioClip: {fileID: 8300000, guid: f3478971d3cfd6d449008a329b9bb0b4, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber3_damage
+    audioClip: {fileID: 8300000, guid: 8ba1571ae15128849b604b02407e71ed, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber3_death
+    audioClip: {fileID: 8300000, guid: c72adde8444adfd40af9f0e6c0cb8536, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber4_atack
+    audioClip: {fileID: 8300000, guid: 6daaa12e1afe8524cb729df3543eb4b2, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber4_damage
+    audioClip: {fileID: 8300000, guid: 6bb65e3981931c14d8186b00295f118f, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber4_death
+    audioClip: {fileID: 8300000, guid: bcb81f64f5dea4f4699dd216d03b3ea1, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle0_atack
+    audioClip: {fileID: 8300000, guid: 5c29f28d7a7aefc4ba3f4a2a4a226f4a, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle0_damage
+    audioClip: {fileID: 8300000, guid: cbe193a25534e844ab27a646c1ac8706, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle0_death
+    audioClip: {fileID: 8300000, guid: 6540edeacf03d5e4cbdf51f1094c5018, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle1_atack
+    audioClip: {fileID: 8300000, guid: 43ebe57310a23d34b94dd669db93a1cd, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle1_damage
+    audioClip: {fileID: 8300000, guid: 4a8d687ad2714f84487b39c39a9f3f97, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle1_death
+    audioClip: {fileID: 8300000, guid: 5f30a2823e5213443960323421c958b5, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle2_atack
+    audioClip: {fileID: 8300000, guid: fdd5fc37b212ed94c868613d8ab2423b, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle2_damage
+    audioClip: {fileID: 8300000, guid: 5b8140336fcac744f8a7652d0d383d80, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle2_death
+    audioClip: {fileID: 8300000, guid: 2ff90f540a78f7644975fe8742466297, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle3_atack
+    audioClip: {fileID: 8300000, guid: 3f54f38af1a0b334e83f202b86e33412, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle3_damage
+    audioClip: {fileID: 8300000, guid: 13e1b9dc1cbf9e449b4b5e627558419a, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle3_death
+    audioClip: {fileID: 8300000, guid: 73fc0ec96581daf41a0a09b95ad1bf1c, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle4_atack
+    audioClip: {fileID: 8300000, guid: c7ec2fb8430725940b5fb88a0c317610, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle4_damage
+    audioClip: {fileID: 8300000, guid: 204cd616395c08f43adf96304812504a, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle4_death
+    audioClip: {fileID: 8300000, guid: b7b1abe9138451d49bc3f505c7df824c, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: bobber_leader
+    audioClip: {fileID: 8300000, guid: 79d7d368f4e641642a64390260755f5e, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}
+  - name: candle_leader
+    audioClip: {fileID: 8300000, guid: fc28bd4329a7ecc408dd459bcf4de554, type: 3}
+    audioMixerGroup: {fileID: -6522516629323073566, guid: ae1d75a94c44fa646b62c34bc8b60439,
+      type: 2}

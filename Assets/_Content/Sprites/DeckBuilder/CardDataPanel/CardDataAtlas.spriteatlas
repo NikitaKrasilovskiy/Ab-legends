@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardDataAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 97b73381c37145046b0d4bfc1740621f, type: 3}
+    - {fileID: 2800000, guid: 907067bb52cdd9d4dbde349439f8ac1a, type: 3}
+    - {fileID: 2800000, guid: fa665c25cd187e64b8000784b2dad529, type: 3}
+    - {fileID: 2800000, guid: a91bc055840b2e04492f470d39020fd7, type: 3}
+    - {fileID: 2800000, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 97b73381c37145046b0d4bfc1740621f, type: 3}
+  - {fileID: -3227193446371232992, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -7035852384496203856, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -3703975315975979476, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -5894432749438183796, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -8791038412555966401, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -4150114125725551638, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: 3139571168059043610, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -7501310438610131340, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: 3085158070203119441, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -793032243455479270, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: 8182590409883706188, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: -6519905433476630295, guid: 3fd5d1b4ebae60e43b6f261424bd0a12, type: 3}
+  - {fileID: 21300000, guid: fa665c25cd187e64b8000784b2dad529, type: 3}
+  - {fileID: 21300000, guid: a91bc055840b2e04492f470d39020fd7, type: 3}
+  - {fileID: 21300000, guid: 907067bb52cdd9d4dbde349439f8ac1a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - upgrade_wnd
+  - interfeys_menyu_card_date_panel_files_10
+  - interfeys_menyu_card_date_panel_files_11
+  - interfeys_menyu_card_date_panel_files_9
+  - interfeys_menyu_card_date_panel_files_8
+  - interfeys_menyu_card_date_panel_files_5
+  - interfeys_menyu_card_date_panel_files_4
+  - interfeys_menyu_card_date_panel_files_7
+  - interfeys_menyu_card_date_panel_files_6
+  - interfeys_menyu_card_date_panel_files_1
+  - interfeys_menyu_card_date_panel_files_0
+  - interfeys_menyu_card_date_panel_files_3
+  - interfeys_menyu_card_date_panel_files_2
+  - red_btn
+  - upgrade_cost
+  - price_btn
+  m_RenderDataMap: {}
+  m_Tag: CardDataAtlas
+  m_IsVariant: 0

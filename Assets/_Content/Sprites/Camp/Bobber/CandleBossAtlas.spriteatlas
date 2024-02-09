@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CandleBossAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 70c678357671abc4791c9c146ba9d385, type: 3}
+    - {fileID: 2800000, guid: a4e531f9a0c4a5c448f28d74e9f4c946, type: 3}
+    - {fileID: 2800000, guid: 7157d83233c4e0049aff157b3cf68a31, type: 3}
+    - {fileID: 2800000, guid: 2a1e74c4a7cd7ba4fb1c50d9a0bcbe68, type: 3}
+    - {fileID: 2800000, guid: c471359e78b8dfb42a4a26e663f859c0, type: 3}
+    - {fileID: 2800000, guid: 76a6729b152bd674e9c8fea197b15183, type: 3}
+    - {fileID: 2800000, guid: a9d3d8cc315fce6428d70ea183f935aa, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7157d83233c4e0049aff157b3cf68a31, type: 3}
+  - {fileID: 21300000, guid: 2a1e74c4a7cd7ba4fb1c50d9a0bcbe68, type: 3}
+  - {fileID: 21300000, guid: 70c678357671abc4791c9c146ba9d385, type: 3}
+  - {fileID: 21300000, guid: a4e531f9a0c4a5c448f28d74e9f4c946, type: 3}
+  - {fileID: 21300000, guid: 76a6729b152bd674e9c8fea197b15183, type: 3}
+  - {fileID: 21300000, guid: a9d3d8cc315fce6428d70ea183f935aa, type: 3}
+  - {fileID: 21300000, guid: c471359e78b8dfb42a4a26e663f859c0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - boss3
+  - boss4
+  - boss1
+  - boss2
+  - boss6
+  - candle
+  - boss5
+  m_RenderDataMap: {}
+  m_Tag: CandleBossAtlas
+  m_IsVariant: 0
